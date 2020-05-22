@@ -8,7 +8,7 @@ Requirements:
 - sqlite3
 
 Steps:
-- clone project: git clone https://github.com/suarezlucas28/nurseapp.git
+- Clone project: git clone https://github.com/suarezlucas28/nurseapp.git
 - Create enviroment folder: virtualenv -p python3 env
 - Active enviroment: source env/bin/activate
 - Install project requeriments: pip3 install -r nurseapp/requeriments.txt
@@ -18,3 +18,5 @@ For run tests:
 
 For run project:
 - python nurseapp/manage.py runserver
+
+Credentials: admin/admin123
