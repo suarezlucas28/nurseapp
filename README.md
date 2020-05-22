@@ -1,7 +1,7 @@
 # nurseapp
 A single test for swnat.com
 
-This project is a small test on Django Web Framework.
+This project is a small test on Django Web Framework (3.0).
 
 Requirements:
 - Python3
