@@ -19,4 +19,5 @@ For run tests:
 For run project:
 - python nurseapp/manage.py runserver
 
+Test open in browser using http://127.0.0.1:8000/
 Credentials: admin/admin123
